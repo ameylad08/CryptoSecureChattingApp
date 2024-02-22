@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639632844982",
+    "project_id": "securio-4efb5",
+    "storage_bucket": "securio-4efb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639632844982:android:e5f775f720898f6a7dde17",
+        "android_client_info": {
+          "package_name": "com.example.securio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXLX1a1x7wfgyKev0Y4jDs3PITcik5kUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
